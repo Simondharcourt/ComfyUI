@@ -7,9 +7,8 @@ import random
 
 # This is the default path to save your workflows from ComfyUI
 # Workflow should be savec in their API format
+DEFAULT_WORKFLOW_PATH = "/Users/username/Downloads"
 
-
-DEFAULT_WORKFLOW_PATH = "/Users/simondharcourt/Downloads"
 
 class Workflow:
     """
